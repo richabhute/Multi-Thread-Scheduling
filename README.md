@@ -1,5 +1,7 @@
 # Multi-Thread-Scheduling
 
+The following is a summarized version of Jianping Pan's given assignment for the class: CSC 360 - Operating Systems (Fall 2019) @ the University of Victoria. 
+
 Construct a simulator of an automated control system for the railway track that uses the following programming constructs provided by the posix pthread library:
 
 1. threads
